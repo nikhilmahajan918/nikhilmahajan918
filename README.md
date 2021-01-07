@@ -9,14 +9,15 @@
 
 Hi, I'm Nikhil Mahajan, a passionate self-taught learner from India.
 
-- 🔭 I’m currently working on [Chegg](https://www.chegg.com/)
-- 🌱 I’m currently learning React and polishing my Data Structure and Algorithms.
+- 🔭 I’m currently working on [Chegg.inc](https://www.chegg.com/)
+- 🌱 I’m currently learning basic concepts of web development.
 - 👯 I’m looking to collaborate on open source projects.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2021 Goals: loading....!
+
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-.vercel.app/api/spotify-playing" alt="Nikhil Spotify Playing" width="350" />](https://open.spotify.com/user/22fwmtv8hm03hx7v3fu9byah7)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Nikhil Spotify Playing" width="350" />](https://open.spotify.com/user/22fwmtv8hm03hx7v3fu9byah7)
 
 ### Connect with me:
 
@@ -38,7 +39,6 @@ Hi, I'm Nikhil Mahajan, a passionate self-taught learner from India.
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img align="left" alt="CodeBlock" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/codeblock/codeblock.png" />]
 [<img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/php/php.png" />]
 [<img align="left" alt="PostgreSql" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/postgresql/postgresql.png" />]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
@@ -47,6 +47,9 @@ Hi, I'm Nikhil Mahajan, a passionate self-taught learner from India.
 
 <br />
 <br />
+
+---
+
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats.*
 
