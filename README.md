@@ -8,10 +8,12 @@
 
 Hi, I'm Nikhil Mahajan, a passionate self-taught learner from India.
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 - 🔭 I’m currently working as a subject expert at [Chegg.inc](https://www.chegg.com/)
 - 🌱 I’m currently learning basic concepts of web development.
 - 👯 I’m looking to collaborate on open source projects.
-- 🥅 2021 Goals: Exploring more technologies in web-d
+- 🥅 2021 Goals: Exploring more technologies in web-D
 
 
 ### Spotify Playing 🎧
@@ -56,6 +58,13 @@ Hi, I'm Nikhil Mahajan, a passionate self-taught learner from India.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilmahajan918&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Nikhil's github stats" />
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilmahajan918&layout=compact&theme=material-palenight" />
+
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nikhilmahajan918" />
+  <img src="https://badges.pufler.dev/years/nikhilmahajan918?&logo=github&logoColor=yellow" />
+  <img src="https://badges.pufler.dev/repos/nikhilmahajan918?&logo=github&logoColor=yellow" />
+  <img src="https://badges.pufler.dev/commits/monthly/nikhilmahajan918?&logo=github&logoColor=yellow" />
+
 
 <!-- <details>
   <summary>:zap: GitHub Stats</summary>
