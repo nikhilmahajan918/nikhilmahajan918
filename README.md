@@ -59,11 +59,11 @@ Hi, I'm Nikhil Mahajan, a passionate self-taught learner from India.
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilmahajan918&layout=compact&theme=material-palenight" />
 
-  <p align="center">
+  <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nikhilmahajan918" />
   <img src="https://badges.pufler.dev/years/nikhilmahajan918?&logo=github&logoColor=yellow" />
   <img src="https://badges.pufler.dev/repos/nikhilmahajan918?&logo=github&logoColor=yellow" />
-  <img src="https://badges.pufler.dev/commits/monthly/nikhilmahajan918?&logo=github&logoColor=yellow" />
+  <img src="https://badges.pufler.dev/commits/monthly/nikhilmahajan918?&logo=github&logoColor=yellow" /> -->
 
 
 <!-- <details>
